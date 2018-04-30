@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\bin\Debug\snake_new.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\bin\Debug\snake_new.exe
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\bin\Debug\snake_new.pdb
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.exe
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.pdb
+c:\users\dell\documents\visual studio 2015\Projects\snake_new\snake_new\obj\Debug\snake_new.csprojResolveAssemblyReference.cache
